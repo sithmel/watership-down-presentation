@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  font-family: 'Indie Flower', cursive;
+}
+
+.reveal {
+  font-family: 'Indie Flower', cursive;
+}
+
+.panel {
+  background-color: rgba(0,0,0,0.7);
+  border-radius: 40px 0 0 0;
+  color: white;
+}
+
+.panel--bottom {
+  margin-top: 270px !important;
+}
+
+.panel h1,
+.panel h2,
+.panel h3,
+.panel h4,
+.panel h5,
+.panel h6 {
+  color: white;
+}
