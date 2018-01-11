@@ -13,9 +13,10 @@
 }
 
 .panel {
-  background-color: rgba(0,0,0,0.7);
-  border-radius: 40px 0 0 0;
+  background-color: rgba(70, 70, 70, 0.26);
+  border-radius: 20px;
   color: white;
+  text-shadow: 0px 0px 5px black;
 }
 
 .panel--bottom {
@@ -29,4 +30,5 @@
 .panel h5,
 .panel h6 {
   color: white;
+  text-shadow: 0px 0px 5px black;
 }
