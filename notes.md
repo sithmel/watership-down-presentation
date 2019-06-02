@@ -1,6 +1,8 @@
 Introduction
 ============
-Hi, today I am going to talk about teams and teamwork. That's an unusual subject for me.
+Hi, today I am going to talk about teams and teamwork.
+Last year I was lucky enough to be asked to be a principal engineer In Tes. Despite having 20 years of experience in engineering
+That's an unusual subject for me.
 But I had the chance last year to do some interesting readings about that. And I want to share my findings.
 I found a lot of connections between "Watership down" and other books I was reading about team and leadership.
 
